@@ -1,14 +1,22 @@
-## Hi there 👋
+Hi there 👋
+### I'm Sidharth (Sid)
+Designer · Creative Coder
 
-<!--
-**sidharthxdev/sidharthxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Work](https://www.hellosid.in/) | [Blog](https://mindscapes.framer.website/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+I specialise in product & interaction design. Exploring around ideas and concepts using p5 and other js libraries. 
+
+---
+
+🔭 I’m currently tinkering around with creative coding & algorithmic art.
+
+---
+
+📫 Say hi
+
+[LINKEDIN](https://www.linkedin.com/in/sidharthsabu/) | [X](https://x.com/sidharthxdesign) | [INSTAGRAM](https://www.instagram.com/notwakeupsid_/)’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
