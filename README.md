@@ -16,4 +16,4 @@ I specialise in product & interaction design. Exploring around ideas and concept
 
 📫 Say hi
 
-[LINKEDIN](https://www.linkedin.com/in/sidharthsabu/) | [X](https://x.com/sidharthxdesign) | [INSTAGRAM](https://www.instagram.com/notwakeupsid_/)
+[LINKEDIN](https://www.linkedin.com/in/sidharthsabu/) | [X](https://x.com/sidharthxdesign)
